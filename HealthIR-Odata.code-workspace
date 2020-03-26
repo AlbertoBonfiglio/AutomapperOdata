@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "HealthIR"
+		},
+		{
+			"path": "Benton.Core"
+		},
+		{
+			"path": "Benton.EF"
+		},
+		{
+			"path": "HealthIR-Test"
+		}
+	],
+	"settings": {}
+}

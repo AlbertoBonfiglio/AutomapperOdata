@@ -1,0 +1,5 @@
+{
+    "angularKarmaTestExplorer.projectRootPath": ".\\HealthIR\\ClientApp",
+    "angularKarmaTestExplorer.defaultSocketConnectionPort": 9990,
+    "angularKarmaTestExplorer.debugMode": true
+}
